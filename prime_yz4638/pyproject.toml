@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "prime_yz4638"
-version = "0.1.0"
+version = "0.1.1"
 description = "Modern data structure homework 7"
 authors = ["Yishu Zhang"]
 license = "MIT"
