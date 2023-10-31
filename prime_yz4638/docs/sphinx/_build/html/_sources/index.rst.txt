@@ -29,21 +29,29 @@ More to come!
 Installation
 -----------------
 
-Install prime_yz4638 by running:
+Install `prime_yz4638` by running:
 
-    install prime_yz4638
+    ``$ pip install prime_yz4638``
     
 Support
 ------------
 
 If you are having issues, please let me know. yz4638@columbia.edu
 
+Contributing
+-------------------
+
+Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
+
+
 License
 ------------
 
 The project is licensed under the MIT license.
+``prime_yz4638`` was created by Yishu Zhang. It is licensed under the terms of the MIT license.
 
 Credit
 ----------
 
 This project is created with cookiecutter
+``prime_yz4638`` was created with ``cookiecutter`` and the ``py-pkgs-cookiecutter`` template.
